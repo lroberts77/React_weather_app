@@ -16,7 +16,7 @@ I decided to make a few projects to help me learn and practice React. I used var
 ## Installation
 To clone the repo
 
-In the terminal
+* In the terminal
 $ git clone git@github.com:lroberts77/React_weather_app.git
 $ cd React_weather_app
 $ npm install
