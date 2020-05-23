@@ -22,7 +22,7 @@ $ cd React_weather_app
 $ npm install
 
 ## Usage
-Open a terminal in your text editor while in the root of the React_weather_app folder
+Go to openweathermap.org and generate an API key and paste it in between the key: parentheses in App.js and save the file. Then open a terminal in your text editor while in the root of the React_weather_app folder
 
 In the terminal
 $ npm start
