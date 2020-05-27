@@ -13,12 +13,12 @@ body {
   background-image: url('./assets/normal.jpeg');
   background-size: cover;
   background-position: bottom;
-  transition-duration: 1 ease;
+  transition-duration: 4s ease;
 }
 
 .App.warm {
   background-image: url('./assets/sunny.jpeg');
-  transition-duration: 1 ease;
+  transition-duration: 4s ease;
 }
 
 main {
