@@ -70,7 +70,18 @@ function App() {
             <div className="weather">{weather.weather[0].main}</div>
           </div>
           </div>
-          ) : ('')}
+          ) : (  <div>
+            <div className="location-box">
+              <div className="location">London, UK</div> 
+              <div className="date">{dateBuilder(new Date())}</div>
+            </div>
+            <div className="weather-box">
+              <div className="temp">
+                13°c
+              </div>
+              <div className="weather">cloudy</div>
+            </div>
+            </div>)}
         </main>
     </div>
   );
