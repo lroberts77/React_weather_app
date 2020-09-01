@@ -10,7 +10,14 @@
 * [Improvemets](#Improvements)
 
 ## <a name="Project">Project Direction</a>
+
 ## <a name="Install">Installation</a>
+
 <!-- ## <a name="Npmtest">Npm Testing</a> -->
+
 ## <a name="Usage">Usage</a>
+
 ## <a name="Improvements">Improvements</a>
+* Add testing with jest and enzyme
+* Add test coverage results
+* Deploy app
