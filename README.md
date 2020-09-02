@@ -29,6 +29,6 @@ $ npm start
 If a tab doesn't open with the calculator app running, open a new tab and type in http://localhost:3000 in the url bar and press enter. In the search bar type in a country to see the current weather.
 
 ## <a name="Improvements">Improvements</a>
-* Add testing with jest and enzyme
+* Add testing with jest and enzyme (in progress)
 * Add test coverage results
 * Deploy app

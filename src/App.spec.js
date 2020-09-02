@@ -17,7 +17,5 @@ describe('App', () => {
   it('should render <input />', () => {
     expect(wrapper.find('input').length).toEqual(1); 
   });
-
-  
   
 });
