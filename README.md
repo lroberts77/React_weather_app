@@ -12,6 +12,12 @@
 ## <a name="Project">Project Direction</a>
 
 ## <a name="Install">Installation</a>
+* To clone the repo
+```shell
+$ git clone git@github.com:lroberts77/React_weather_app.git
+$ cd REACT-WEATHER
+$ npm install
+```
 
 <!-- ## <a name="Npmtest">Npm Testing</a> -->
 
