@@ -22,6 +22,11 @@ $ npm install
 <!-- ## <a name="Npmtest">Npm Testing</a> -->
 
 ## <a name="Usage">Usage</a>
+* In the root of the project
+```shell
+$ npm start
+```
+If a tab doesn't open with the calculator app running, open a new tab and type in http://localhost:3000 in the url bar and press enter. In the search bar type in a country to see the current weather.
 
 ## <a name="Improvements">Improvements</a>
 * Add testing with jest and enzyme
